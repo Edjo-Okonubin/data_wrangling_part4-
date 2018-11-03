@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541268360164.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CB4AF90C",
+    "lastKnownWriteTime" : 1541276123,
+    "last_content_update" : -2147483648,
+    "path" : "~/Data Science Projects/data_wrangling_part4/arranging_rows.R",
+    "project_path" : "arranging_rows.R",
+    "properties" : {
+        "cursorPosition" : "46,56",
+        "scrollLine" : "35",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
